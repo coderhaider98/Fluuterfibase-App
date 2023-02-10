@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "418847596726",
+    "project_id": "dumy-8a8ea",
+    "storage_bucket": "dumy-8a8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418847596726:android:9341ee022ec706e2768617",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418847596726-48isstf0ksbs9tpskqhr8ma47g05d3ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mACUbZN5J5ijJ29w0uuMn6QqNcrxd0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418847596726-48isstf0ksbs9tpskqhr8ma47g05d3ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418847596726:android:e97fb7d19ab4b10e768617",
+        "android_client_info": {
+          "package_name": "com.teachease.dumy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418847596726-48isstf0ksbs9tpskqhr8ma47g05d3ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mACUbZN5J5ijJ29w0uuMn6QqNcrxd0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418847596726-48isstf0ksbs9tpskqhr8ma47g05d3ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
